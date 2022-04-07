@@ -27,6 +27,25 @@ main {
     margin: 3vh;
 }
 
+table td:first-child{
+    width: 110px;
+    padding-left: 20px;
+}
+
+section {
+    border: solid 1px #EEE;
+    width: 350px;
+    margin: 20px;
+}
+
+section img {
+    width: 100%;
+    height: 250px;
+}
+
+section p {
+    padding-left: 20px;
+}
 
 @media only screen and (max-width: 1000px) {
     /* Media queries go here */
